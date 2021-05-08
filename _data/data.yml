@@ -1,10 +1,9 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Miguel Palomino
@@ -14,13 +13,12 @@ sidebar:
     # Sidebar links
     email: migpalser@protonmail.ch
     # phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+  #  website: blog.webjeda.com #do not add http://
+   # linkedin: alandoe
    # xing: alandoe
     github: MigPalSer
 #    telegram: # add your nickname without '@' sign
     gitlab:
-    hackerrank: MigPalSer
     bitbucket:
  #   twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -28,124 +26,71 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: klingon
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
-    title: Career Profile
+    title: Skills
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      </> lenguajes : Java, Octave, Matlab
+        [pila] bases datos : SQL, mySQL
+        [3 puntos conectados] frameworks/API/Otras tecnologias : Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.  
+        [ventana] sistema operativo: Windows, GNU/Linux (Ubuntu).
+        [] control versiones: Git, GitHub
+        [] Software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, dbdesigner
+        [bombilla] soft skills: liderazgo, gestión proyectos, productividad personal, Scrum, metodologías ágiles, enseñanza
+        [avion] idiomas: Español, Inglés.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Materials engineering degree
+      university: Tech University of Madrid (Universidad Politécnica de Madrid)
+      time: 2011 - 2017
+      details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Teaching
+      time:
+      company: Mathematics and science high school teacher (2021), Mathematics tutor (2014-2020), MS Excel trainer (2019).
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I have a vast experience in the teaching sector, having taught and trained students, individuals and companies. This experience has helped me to solidify my mathematical knowledge and develop good communication skills.
+
+    - role: Entrepreneurship
+      time: 
+      company: Instituto EMU (2019-2021), Método Isla (2018-2019)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I founded two training and coaching businesses: Método Isla for nutrition and Instituto EMU for productivity and learning. Both businesses have provided me with direct experience about the life cycle and the difficulties companies face; apart from a first contact with the web developing world. In the case of Instituto EMU, studying, practicing and counselling about productivity has given me an ample perspective of popular techniques such as Lean, GTD or the “Agile” methodologies.
+
+    - role: Other experiences
+      time: 
+      company: Customer service in business consultancy (2020), Driver (2019), Street cleansing and maintenance operative (2013 and 2017-2018).
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: OldToys
+        link: "https://github.com/MigPalSer/oldtoys"
+        tagline: "I made a great number of small programs and applications during my first learning period using Java. Those include, among others, calculators, little games (snake, guessing numbers, three-in-a-row, blackjack…), desktop applications using Java Swing, a chat using sockets, a text editor…"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Chanceries
+        link: "https://github.com/MigPalSer/cancillerias"
+        tagline: "in my free time, I work on an application project that I am developing on my own. It is a strategy game developed in Java with which I am learning a lot about how to develop an application from scratch, implementing the right architecture that will allow to develop and scale the project handily."
 
 publications:
-    title: Publications
+    title: Training and certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
