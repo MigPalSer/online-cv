@@ -41,18 +41,30 @@ sidebar:
 
       - item: 
         link:
+        
+    myskills:
+      - programminglanguages: Java, Octave, Matlab. 
+        
+      - databases: SQL, MySQL.
+        
+      - frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.  
+      
+      - systems: Windows, GNU/Linux (Ubuntu).
+      
+      - versioncontrol: Git, GitHub.
+      
+      - software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, dbdesigner.
+
+      - softskills: leadership, project management, personal productivity, scrum, agile methods, teaching.
+      
+      - languages: Spanish (native), English (professional).
+     
+        
 
 career-profile:
-    title: Skills
+    title: 
     summary: |
-      </> lenguajes : Java, Octave, Matlab
-        [pila] bases datos : SQL, mySQL
-        [3 puntos conectados] frameworks/API/Otras tecnologias : Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.  
-        [ventana] sistema operativo: Windows, GNU/Linux (Ubuntu).
-        [] control versiones: Git, GitHub
-        [] Software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, dbdesigner
-        [bombilla] soft skills: liderazgo, gestión proyectos, productividad personal, Scrum, metodologías ágiles, enseñanza
-        [avion] idiomas: Español, Inglés.
+      
 education:
     - degree: Materials engineering degree
       university: Tech University of Madrid (Universidad Politécnica de Madrid)
@@ -115,23 +127,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name:
+        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
