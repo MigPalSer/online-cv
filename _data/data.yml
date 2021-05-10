@@ -26,7 +26,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     programminglanguages: Java, Octave, Matlab.
-
+    databases: SQL, MySQL.
+    frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.  
+    systems: Windows, GNU/Linux (Ubuntu).
+    versioncontrol: Git, GitHub.
+    software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, dbdesigner.
+    softskills: leadership, project management, personal productivity, scrum, agile methods, teaching.
+    newlanguages: Spanish (native), English (professional).
+    
     languages:
       - idiom: Spanish
         level: Native
@@ -47,19 +54,7 @@ sidebar:
     myskills:
          
         
-      - databases: SQL, MySQL.
-        
-      - frameworks: Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest, Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.  
       
-      - systems: Windows, GNU/Linux (Ubuntu).
-      
-      - versioncontrol: Git, GitHub.
-      
-      - software: MSOffice, OpenOffice, LibreOffice, Microsoft Teams, Eclipse, Wordpress, dbdesigner.
-
-      - softskills: leadership, project management, personal productivity, scrum, agile methods, teaching.
-      
-      - languages: Spanish (native), English (professional).
      
         
 
