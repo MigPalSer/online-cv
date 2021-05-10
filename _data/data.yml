@@ -25,6 +25,8 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    programminglanguages: Java, Octave, Matlab.
+
     languages:
       - idiom: Spanish
         level: Native
@@ -43,7 +45,7 @@ sidebar:
         link:
         
     myskills:
-        programminglanguages: Java, Octave, Matlab. 
+         
         
       - databases: SQL, MySQL.
         
