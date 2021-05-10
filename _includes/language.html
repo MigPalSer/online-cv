@@ -1,4 +1,6 @@
 {% assign languages = site.data.data.sidebar.languages %}
+{% assign myskills = site.data.data.sidebar.myskills %}
+
 {% if languages %}
 <div class="languages-container container-block">
 
@@ -6,9 +8,9 @@
     Skills
   </h2>
 
-    <li class="telegram"><i class="fab fa-telegram"></i>
-      Prueba de título:    {{ sidebar.myskills.programminglanguages | markdownify }}
-    </li>
+      <span class="fa-database fa-xs">
+      Prueba de título:    {{ myskills.programminglanguages}}
+    
   
   
   <ul class="list-unstyled interests-list">
