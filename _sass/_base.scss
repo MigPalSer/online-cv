@@ -132,15 +132,28 @@ p {
         }
     }
 
-    .languages-list {
-        margin-bottom: 0;
-        li {
+  .languages-list{
+    margin-bottom: 0;
+    line-height: 1.5em;
+    }
+
+    h3{
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+
+    p{
+        font-weight: light;
+        font-family: sans-serif;
+    }
+
+
+        li{
             margin-bottom: 10px;
-            &:last-child {
+            &:last-child{
                 margin-bottom: 0;
             }
         }
-    }
 
     .interests-list {
         margin-bottom: 0;
