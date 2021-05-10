@@ -130,21 +130,23 @@ p {
         .lang-desc {
             color: rgba(256, 256, 256, 0.6);
         }
-    }
 
   .languages-list{
     margin-bottom: 0;
     line-height: 1.5em;
-    }
 
     .title{
-        font-weight: bold;
-        font-family: sans-serif;
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;
+            margin-top: 0;
     }
 
     .text{
-	     font-weight: 500;
- font-family: 'Roboto', sans-serif;    }
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 0px;    
+	}
 
 
         li{
@@ -152,7 +154,10 @@ p {
             &:last-child{
                 margin-bottom: 0;
             }
+	  }
         }
+	 
+	    }
 
     .interests-list {
         margin-bottom: 0;
