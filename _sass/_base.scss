@@ -104,7 +104,6 @@ p {
     }
     .degree {
         font-size: 14px;
-	font-family: 'Roboto', sans-serif;
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -121,6 +120,15 @@ p {
             margin-bottom: 0px;
             margin-top: 0;
         }
+	    
+	            }
+        .text {
+            color: #FFFFF;
+            font-weight: 500;
+            margin-bottom: 0px;
+            margin-top: 0;
+        }
+	    
         .time {
             color: rgba(256, 256, 256, 0.6);
             font-weight: 500;
