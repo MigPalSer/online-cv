@@ -104,6 +104,7 @@ p {
     }
     .degree {
         font-size: 14px;
+	font-family: 'Roboto', sans-serif;
         margin-top: 0;
         margin-bottom: 5px;
     }
@@ -134,12 +135,6 @@ p {
   .languages-list{
     margin-bottom: 0;
     line-height: 1.5em;
-
-    .title{
-        font-size: 14px;
-        margin-top: 0;
-        margin-bottom: 5px;
-    }
 
     .text{
             color: rgba(256, 256, 256, 0.6);
