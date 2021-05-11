@@ -35,38 +35,6 @@
      <h4 class="degree"><i class="fas fa-plane"></i> Languages:</h4>
        <h5 class="meta" style="color:#FFFFFF">{{sidebar.newlanguages}}</h5>
    
-       <span class="fas fa-database">
-       <h3>databases:</h3> <p>SQL, MySQL.</p>
-
-         <span class="fas fa-project-diagram">
-     <h3>frameworks:</h3> <p>Java Swing, JDBC, JPA, Java EE, Junit, Hamcrest,
-        Mockito, Spring, Spring boot, Spring MVC, Maven, Hibernate.</p>
-
-           <span class="fas fa-laptop-code">
-           <h3>systems:</h3> <p>Windows, GNU/Linux (Ubuntu).</p>
-
-             <span class="fas fa-code-branch">
-     <h3>versioncontrol:</h3> <p>Git, GitHub.</p>
-
-               <span class="fas fa-file-alt">
-     <h3>software:</h3> <p>MSOffice, OpenOffice, LibreOffice, Microsoft Teams,
-        Eclipse, Wordpress, dbdesigner.</p>
-
-                 <span class="fas fa-lightbulb">
-     <h3>softskills:</h3> <p>leadership, project management, personal productivity,
-        scrum, agile methods, teaching.</p>
-
-                   <span class="fas fa-plane">
-     <h3>newlanguages:</h3> <p>Spanish (native), English (professional).</p>
-
-   <ul class="list-unstyled interests-list">
-     {%for language in languages %}
-     <li>
-       {{ language.idiom }}
-       <span class="lang-desc">({{ language.level }})</span>
-     </li>
-     {% endfor %}
-   </ul>
 
 </div><!--//interests-->
 
