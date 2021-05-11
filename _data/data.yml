@@ -103,10 +103,10 @@ publications:
     intro: |
       
     papers:
-      - title: Hackerrank: Java Basic certification.
+      - title: "Hackerrank: Java Basic certification."
         link: "https://www.hackerrank.com/certificates/f704d92b366a"
         authors: 
-        conference:  Certified programming courses:
+        conference:  "Certified programming courses:"
         
       - title: POO in Java.
         link: 
@@ -161,7 +161,7 @@ publications:
       - title: TDD Java.
         link: 
         authors: 
-        conference: Other courses and certifications:
+        conference: "Other courses and certifications:"
 
       - title: English B2 TOEIC.
         link: 
