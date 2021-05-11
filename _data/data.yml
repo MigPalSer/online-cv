@@ -100,7 +100,7 @@ projects:
 
 publications:
     title: Training and certifications
-    intro: Certifications:
+    intro: |
       
     papers:
       - title: Hackerrank: Java Basic certification.
