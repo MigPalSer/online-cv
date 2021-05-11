@@ -100,25 +100,40 @@ projects:
 
 publications:
     title: Training and certifications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: | Certifications:
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Hackerrank: Java Basic certification.
+        link: "https://www.hackerrank.com/certificates/f704d92b366a"
+        authors: 
+        conference:  Certified programming courses:
+        
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: POO in Java.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Java Standard Edition APIs Core.
+
+      - title: Java 8: lambdas, streams and good practices.
+
+      - title: Web Developing in Java.
+      - title: Java EE and EJBS.
+      - title: Spring Framework.
+      - title: Spring Boot.
+      - title: Solid Java Architecture with Spring.
+      - title: Java Persistence API (JPA).
+        
+      - title: Maven.
+      - title: TDD Java.
+        conference:  Other courses and certifications:
+
+      - title: English B2 TOEIC.
+
+
+
+
+
+
+
 
 skills:
     title: Skills &amp; Proficiency
