@@ -108,26 +108,65 @@ publications:
         authors: 
         conference:  Certified programming courses:
         
-
       - title: POO in Java.
-
+        link: 
+        authors: 
+        conference:  
+        
       - title: Java Standard Edition APIs Core.
-
+        link: 
+        authors: 
+        conference:  
+        
       - title: Java 8: lambdas, streams and good practices.
-
+        link: 
+        authors: 
+        conference:  
+        
       - title: Web Developing in Java.
+        link: 
+        authors: 
+        conference:  
+
       - title: Java EE and EJBS.
+        link: 
+        authors: 
+        conference:  
+
       - title: Spring Framework.
+        link: 
+        authors: 
+        conference:  
+
       - title: Spring Boot.
+        link: 
+        authors: 
+        conference:  
+
       - title: Solid Java Architecture with Spring.
+        link: 
+        authors: 
+        conference:  
+
       - title: Java Persistence API (JPA).
+        link: 
+        authors: 
+        conference:  
         
       - title: Maven.
+        link: 
+        authors: 
+        conference: 
+ 
       - title: TDD Java.
-        conference:  Other courses and certifications:
+        link: 
+        authors: 
+        conference: Other courses and certifications:
 
       - title: English B2 TOEIC.
-
+        link: 
+        authors: 
+        conference:  
 
 
 
