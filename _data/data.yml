@@ -106,7 +106,7 @@ publications:
       - title: "Hackerrank: Java Basic certification."
         link: "https://www.hackerrank.com/certificates/f704d92b366a"
         authors: 
-        conference:  "Certified programming courses:"
+        conference: | | | "Certified programming courses:"
         
       - title: POO in Java.
         link: 
